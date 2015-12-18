@@ -46,4 +46,9 @@ group :development do
 end
 
 gem "rack-cors", :require => "rack/cors"
+
+gem "devise"
+
+gem "devise_token_auth"
+
 gem 'httparty'
